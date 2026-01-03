@@ -1,6 +1,6 @@
 # NEXT.JS Islamic App
 
-Kalam-Tayeb Islamic App By Ahmed Adel
+Zikr Islamic App By Ahmed Adel
 
 ## Technologies And Libraries The App Built With
 
